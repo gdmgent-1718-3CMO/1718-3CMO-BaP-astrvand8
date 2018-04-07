@@ -2,7 +2,7 @@
 # layout: vertical
 permalink: logo/
 published: true
-title: Logo intro
+title: Logo 
 ---
 
 # Het beste logo ooit

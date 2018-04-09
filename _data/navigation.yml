@@ -7,14 +7,10 @@
 #   permalink: /index 
 #   # fa-icon: icon-info
 
-- name: Huisstijlelementen
-  description: Huisstijlelementen
-  folder: pages/huisstijlelementen/
-  permalink: huisstijlelementen/
 
 - name: Logo
   description: Logo
-  folder: pages/logo/
+  # folder: pages/logo/
   permalink: logo/
   # fa-icon: icon-graduation-cap
 

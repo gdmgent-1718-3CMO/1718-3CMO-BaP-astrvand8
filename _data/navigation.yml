@@ -25,3 +25,18 @@
   # folder: pages/stijlgids
   permalink: /stijlgids
   # fa-icon: icon-info
+
+- name: Kleur
+  description: kleur
+  # folder: pages/logo/
+  permalink: kleur/
+  # fa-icon: icon-graduation-cap
+
+- name: Typografie
+  description: Typografie
+  # folder: pages/logo/
+  permalink: typografie/
+  # fa-icon: icon-graduation-cap
+
+
+

@@ -1,11 +1,11 @@
 # functie uitschakelen met '#'
 # dubbele spatie voor de criteria behouden
 
-# - name: Home
-#   description: Home
-#   # folder: pages/
-#   permalink: /index 
-#   # fa-icon: icon-info
+- name: Home
+ description: Home
+  # folder: pages/
+  permalink: home/
+  # fa-icon: icon-info
 
 
 - name: Logo
@@ -26,10 +26,10 @@
   permalink: typografie/
   # fa-icon: icon-graduation-cap
 
-- name: Lay-out
-  description: Typografie
-  folder: pages/logo/
-  permalink: typografie/
+- name: lay-out
+  description: lay-out
+  # folder: pages/lay-out/
+  permalink: lay-out/
   # fa-icon: icon-graduation-cap 
   
 - name: Toepassingen
@@ -37,5 +37,6 @@
   folder: pages/toepassingen/
   permalink: toepassingen/
   # fa-icon: icon-info
+
 
 

@@ -2,11 +2,10 @@
 # dubbele spatie voor de criteria behouden
 
 - name: Home
- description: Home
+  description: Home
   # folder: pages/
-  permalink: home/
+  permalink: /index
   # fa-icon: icon-info
-
 
 - name: Logo
   description: Logo

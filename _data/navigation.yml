@@ -14,18 +14,6 @@
   permalink: logo/
   # fa-icon: icon-graduation-cap
 
-- name: Toepassingen
-  description: Toepassingen
-  folder: pages/toepassingen/
-  permalink: toepassingen/
-  # fa-icon: icon-info
-
-- name: Styleguide
-  description: Stijlgids voor de Huistijlgids
-  # folder: pages/stijlgids
-  permalink: /stijlgids
-  # fa-icon: icon-info
-
 - name: Kleur
   description: kleur
   # folder: pages/logo/
@@ -38,5 +26,16 @@
   permalink: typografie/
   # fa-icon: icon-graduation-cap
 
+- name: Lay-out
+  description: Typografie
+  folder: pages/logo/
+  permalink: typografie/
+  # fa-icon: icon-graduation-cap 
+  
+- name: Toepassingen
+  description: Toepassingen
+  folder: pages/toepassingen/
+  permalink: toepassingen/
+  # fa-icon: icon-info
 
 

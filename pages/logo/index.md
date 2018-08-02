@@ -5,26 +5,35 @@ published: true
 title: Logo 
 ---
 
-# Het beste logo ooit
+# Het nieuwe logo
 
-## Consectetur adipiscing elit.
+Het logo werd aangepast en gemoderniseerd. In het logo zitten de kernelementen van de bibliotheek visueel verwerkt. Het stijlelement bij uitstek dat in elke strip voorkomt; de tekstballon, in de vorm van een negen, verwijzend naar ‘de negende kunst’. Op die manier combineert het logo de stijl van strips met de naam van de stripbibliotheek zelf. 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Idem iste, inquam, de voluptate quid sentit? Istam voluptatem perpetuam quis potest praestare sapienti? Aliam vero vim voluptatis esse, aliam nihil dolendi, nisi valde pertinax fueris, concedas necesse est. Sed tamen enitar et, si minus multa mihi occurrent, non fugiam ista popularia. Sed ad bona praeterita redeamus. Duo Reges: constructio interrete. Atque ab isto capite fluere necesse est omnem rationem bonorum et malorum. Quamquam te quidem video minime esse deterritum.
+In de communicatie van de bibliotheek wordt voortaan met dit logo gewerkt. Het oude logo wordt niet meer gebruikt. Alle logovarianten van de bibliotheek zijn auteursrechtelijk beschermd en zijn terug te vinden in deze digitale huisstijlgids. Aanpassingen zoals kleur en typografie buiten de onderstaande voorbeelden, maken het logo ongeldig. 
 
-Aliud igitur esse censet gaudere, aliud non dolere. Eorum enim omnium multa praetermittentium, dum eligant aliquid, quod sequantur, quasi curta sententia; Duae sunt enim res quoque, ne tu verba solum putes. Illi enim inter se dissentiunt.
 
-<a href="http://loripsum.net/" target="_blank">Sed potestne rerum maior esse dissensio?</a> Quid, de quo nulla dissensio est? Etenim semper illud extra est, quod arte comprehenditur. Cuius ad naturam apta ratio vera illa et summa lex a philosophis dicitur. Eam tum adesse, cum dolor omnis absit; Eaedem enim utilitates poterunt eas labefactare atque pervertere.
-
-## Ne in odium veniam.
+## Plaatsing van het logo
     
-Pisone in eo gymnasio, quod Ptolomaeum vocatur, unaque nobiscum Q. Videmus igitur ut conquiescere ne infantes quidem possint. Qui-vere falsone, quaerere mittimus-dicitur oculis se privasse; <a href="http://loripsum.net/" target="_blank">Quibusnam praeteritis?</a> <a href="http://loripsum.net/" target="_blank">Omnia peccata paria dicitis.</a> Praetereo multos, in bis doctum hominem et suavem, Hieronymum, quem iam cur Peripateticum appellem nescio. Neque enim disputari sine reprehensione nec cum iracundia aut pertinacia recte disputari potest. Quid affers, cur Thorius, cur Caius Postumius, cur omnium horum magister, Orata, non iucundissime vixerit? Aliter homines, aliter philosophos loqui putas oportere? <mark>Age, inquies, ista parva sunt.</mark>
+Het logo wordt bij voorkeur steeds in de rechter bovenhoek van een ontwerp geplaatst op passende afstand van de rand. Bij uitzondering, wanneer het logo bijvoorbeeld niet leesbaar zou zijn, mag het aan de onderkant van de drager worden geplaatst, maar bij voorkeur steeds in de rechter hoek. Vooral de linkerkant moet worden vermeden, omdat de naam in het logo dan niet de juiste aandacht krijgt. 
 
-- Hominum non spinas vellentium, ut Stoici, nec ossa nudantium, sed eorum, qui grandia ornate vellent, enucleate minora dicere.
-- Nam diligi et carum esse iucundum est propterea, quia tutiorem vitam et voluptatem pleniorem efficit.
-- Quem si tenueris, non modo meum Ciceronem, sed etiam me ipsum abducas licebit.
-- Naturales divitias dixit parabiles esse, quod parvo esset natura contenta.
-- Tum, Quintus et Pomponius cum idem se velle dixissent, Piso exorsus est.
-- Huic ego, si negaret quicquam interesse ad beate vivendum quali uteretur victu, concederem, laudarem etiam;
+## Grootte van het logo
 
+Om de leesbaarheid van het logo te garanderen, dient u rekening te houden met de soort en grootte van de drager. Hoe groter de drager, hoe groter de tekst moet zijn in vergelijking met de tekstballon. Ook de lijndikte van de ballon zal zich moeten aanpassen. Het logo mag nooit smaller zijn dan 15 mm, om de leesbaarheid te garanderen. 
 
-<mark>Primum Theophrasti, Strato, physicum se voluit;</mark> Quid affers, cur Thorius, cur Caius Postumius, cur omnium horum magister, Orata, non iucundissime vixerit? Eadem nunc mea adversum te oratio est. Sed vos squalidius, illorum vides quam niteat oratio. Modo etiam paulum ad dexteram de via declinavi, ut ad Pericli sepulcrum accederem. Sed eum qui audiebant, quoad poterant, defendebant sententiam suam. Quorum sine causa fieri nihil putandum est. Philosophi autem in suis lectulis plerumque moriuntur. Atqui reperies, inquit, in hoc quidem pertinacem; Deinde prima illa, quae in congressu solemus: Quid tu, inquit, huc?
+## Typografie van het logo
+
+In het logo werken we met fonts ‘Contrail One’ en ‘Tahoma’. Meer info hierover vindt u in het hoofdstuk Typografie.
+
+## Gebruikte kleuren voor het logo
+
+Enkel de logo’s die hier worden afgebeeld zijn geldig. Bij voorkeur gebruikt u het logo met beide blauwtinten, maar dit zal afhangen van de drager en of het logo al dan niet voldoende zichtbaar is. Zoniet kunt u kiezen uit het logo in de blauwtinten of zwart/wit. Grijswaarden worden vermeden.
+
+## Beknopte richtlijnen
+
+•  Verander de vorm, typografie of aangegeven kleuren niet.
+•  Geef het logo geen slagschaduwen, omtreklijnen of kaders.
+•  Gebruik het logo niet aflopend.
+•  Laat geen elementen uit het logo vallen en pas de vorm niet aan. 
+•  Vul het logo niet met kleur.
+
+Respecteer de ruimte rond het logo om de identeit en integriteit van het logo te beschermen.

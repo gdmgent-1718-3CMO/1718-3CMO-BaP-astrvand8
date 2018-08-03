@@ -13,6 +13,8 @@
 h1{ 
   text-align: left;
   color: $mycolor-1;
+  margin-left: 50pt;
+  margin-right: 100pt;
 }
 
 h2{ 
@@ -52,7 +54,6 @@ ul{
 ----------------------------------------------
 sticked to the bottom with small content pages
 */
-
 html {
     height: 100%;
   }
@@ -85,7 +86,6 @@ footer {
 /* BACK TO TOP
 -------------------------
 */
-
 #to-top {
   display: none; /* Hidden by default */
   position: fixed; /* Fixed/sticky position */

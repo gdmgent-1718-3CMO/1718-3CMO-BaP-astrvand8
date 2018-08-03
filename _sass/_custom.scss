@@ -5,6 +5,27 @@
     border: none;
 }
 
+
+/* Text 
+----------------------------------------------
+*/
+
+h1{ 
+  text-align: left;
+  color: $mycolor-1;
+}
+
+h3{ 
+  text-align: left;
+  color: $mycolor-2;
+}
+
+p{
+  margin-left: 100pt;
+  margin-right: 50pt;
+  color: $color-grey-5;
+}
+
 /* FOOTER
 ----------------------------------------------
 sticked to the bottom with small content pages

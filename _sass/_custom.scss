@@ -48,11 +48,13 @@ h6{
 }
 
 p{
+  text-align: left;
   color: $color-grey-5;
   margin-left: 50pt;
 }
 
 blockquote{
+  text-align: left;
   margin-left: 50pt;
 }
 
@@ -65,7 +67,23 @@ table{
 }
 
 ul{
+  text-align: left;
   margin-left: 50pt;
+  margin-right: 50pt;
+  color: $mycolor-1;
+}
+
+ul.richtlijnen{
+  width: 300px;
+  border: 2px solid #0000;
+  padding:10px;
+  margin:20px;
+}
+
+li{
+  text-align: left;
+  margin-left: 50pt;
+  margin-right: 50pt;
   color: $mycolor-1;
 }
 
@@ -80,6 +98,7 @@ button{
 }
 
 ol{
+  text-align: left;
   margin-left: 50pt;
   color: $mycolor-1;
 }
@@ -129,8 +148,9 @@ footer {
 footer p{
   color: white;
   font-size: 15px;
-  margin-right: 50pt;
+  display: inline;
   margin-top: 10px;
+  margin-right: 10px;
 }
 
 /* BACK TO TOP

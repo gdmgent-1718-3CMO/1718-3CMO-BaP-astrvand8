@@ -3,12 +3,9 @@
 {%- assign pages_contents = site.pages | where_exp: 'item', where_value %}
 
             <div class="dropdown-menu" aria-labelledby="navbarDropdown" aria-hidden="true">
-    {%- assign newlist = pages_contents | shift %}
-    {%- for item in newlist %}
+    {%- for item in pages_contents %}
     
-        {%- capture item_classes %}
-            {% if item.url == page.url %}open{% endif %}
-        {% endcapture %}
+    {%- capture item_classes %}{% if item.url == page.url %}active{% endif %}{% endcapture %}
                 
                     <a class="dropdown-item {{ item_classes }}" href="{{ item.url | relative_url }}" title="{{ item.title.long }}">
                         {{ item.title }}

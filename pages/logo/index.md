@@ -32,7 +32,7 @@ Enkel de logo’s die hier worden afgebeeld zijn geldig. Bij voorkeur gebruikt u
 
 -  Verander de vorm, typografie of aangegeven kleuren niet.
 -  Geef het logo geen slagschaduwen, omtreklijnen of kaders.
--  Gebruik het logo niet aflopend.
+- Gebruik het logo niet aflopend.
 - Laat geen elementen uit het logo vallen en pas de vorm niet aan. 
 -  Vul het logo niet met kleur.
 

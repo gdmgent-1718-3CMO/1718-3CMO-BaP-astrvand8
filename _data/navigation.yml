@@ -16,9 +16,9 @@
 - name: Algemeen
   description: Algemeen
   # folder: pages/Algemeen/
-  permalink: algemeen/
+  permalink: /algemeen
   # fa-icon: icon-graduation-cap
-  
+
 - name: Toepassingen
   description: Toepassingen 
   folder: pages/toepassingen/

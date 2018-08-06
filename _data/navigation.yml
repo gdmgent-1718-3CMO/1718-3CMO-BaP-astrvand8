@@ -18,12 +18,6 @@
   # folder: pages/Algemeen/
   permalink: algemeen/
   # fa-icon: icon-graduation-cap
-
-- name: lay-out
-  description: lay-out
-  # folder: pages/lay-out/
-  permalink: lay-out/
-  # fa-icon: icon-graduation-cap 
   
 - name: Toepassingen
   description: Toepassingen 

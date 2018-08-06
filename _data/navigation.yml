@@ -13,16 +13,10 @@
   permalink: logo/
   # fa-icon: icon-graduation-cap
 
-- name: Kleur
-  description: kleur
-  # folder: pages/logo/
-  permalink: kleur/
-  # fa-icon: icon-graduation-cap
-
-- name: Typografie
-  description: Typografie
-  # folder: pages/logo/
-  permalink: typografie/
+- name: Algemeen
+  description: Algemeen
+  # folder: pages/Algemeen/
+  permalink: algemeen/
   # fa-icon: icon-graduation-cap
 
 - name: lay-out

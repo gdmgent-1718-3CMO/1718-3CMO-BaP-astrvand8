@@ -5,6 +5,94 @@
     border: none;
 }
 
+.navbar {
+  padding-left: 0;
+  padding-right: 0;
+  top: 0;
+  bottom: 0;
+  z-index: 1;
+}
+
+.navbar-nav {
+  font-family: 'Blogger Sans', sans-serif;
+  font-weight: 500;
+  font-size: 18px;
+  margin-top: 25px;
+}
+
+.sidebar-nav {
+  padding: 0;
+}
+
+nav[data-toggle=toc] .nav>li>a {
+  display: inline;
+  padding: 4px 1px;
+  font-size: 13px;
+  font-weight: 600;
+  color: $clientcolor-1;
+  &:hover {
+    color: $clientcolor-3;
+    outline: none;
+    padding-left: 0;
+    border-left: 0px;
+  }
+}
+
+#logo {
+  width: 100%;
+}
+
+.custom-nav-ver {
+  background-color: $mycolor-6;
+  height: 100%;
+}
+
+.nav-link {
+  text-transform: lowercase;
+}
+
+
+#navlogo:hover {
+  background-image: url('images/logohover.svg');
+}
+
+.nav-logo {
+  min-height: 150px;
+  width: 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+.dropdown-menu {
+  background-color: transparent;
+  border: none;
+  z-index: 1;
+}
+
+.dropdown-item {
+  text-transform: lowercase;
+  color: $clientcolor-1;
+}
+
+.dropdown-item.active,
+.dropdown-item:active {
+  background-color: $clientcolor-1;
+}
+
+.dropdown-item:hover {
+  background-color: $clientcolor-1;
+  color: #fff;
+}
+
+.nav-link {
+  color: $clientcolor-1;
+}
+
+.nav-link:hover {
+  color: #fff;
+  background-color: $clientcolor-1;
+}
+
 
 /* Text 
 ----------------------------------------------

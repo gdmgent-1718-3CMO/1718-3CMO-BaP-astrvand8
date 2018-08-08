@@ -9,7 +9,7 @@
 
 - name: Logo
   description: Logo
-  folder: pages/logo/
+  folder: pages/logo
   permalink: logo/
   # fa-icon: icon-graduation-cap
 
@@ -19,16 +19,10 @@
   permalink: /algemeen
   # fa-icon: icon-graduation-cap
 
-- name: Kleur
-  description: Kleur
-  # folder: pages/kleur/
-  permalink: /kleur
-  # fa-icon: icon-graduation-cap
-
 - name: Toepassingen
   description: Toepassingen 
-  folder: pages/toepassingen/
-  permalink: toepassingen/
+  folder: pages/toepassingen
+  permalink: /toepassingen
   # fa-icon: icon-info
 
 - name: Styleguide

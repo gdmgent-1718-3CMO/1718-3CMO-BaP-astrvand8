@@ -21,7 +21,7 @@
 
 - name: Toepassingen
   description: Toepassingen 
-  folder: pages/toepassingen
+  folder: pages/toepassingen/
   permalink: /toepassingen
   # fa-icon: icon-info
 

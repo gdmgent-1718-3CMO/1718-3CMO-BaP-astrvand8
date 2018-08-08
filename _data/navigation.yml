@@ -15,8 +15,14 @@
 
 - name: Algemeen
   description: Algemeen
-  # folder: pages/Algemeen/
+  # folder: pages/algemeen/
   permalink: /algemeen
+  # fa-icon: icon-graduation-cap
+
+- name: Kleur
+  description: Kleur
+  # folder: pages/
+  permalink: /kleur
   # fa-icon: icon-graduation-cap
 
 - name: Toepassingen
@@ -27,6 +33,6 @@
 
 - name: Styleguide
   description: Stijlgids voor de Huistijlgids
-  # folder: pages/stijlgids
+  # folder: pages/stijlgids/
   permalink: /stijlgids
   # fa-icon: icon-info

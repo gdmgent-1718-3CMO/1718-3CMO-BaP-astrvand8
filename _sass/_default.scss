@@ -24,10 +24,17 @@ h2 {
     font-size: 2rem;
     margin: 2rem 0 1rem;
 }
-h3, h4, h5, h6 {
+
+h3 {
+    font-size: 1.5rem;
+    margin: 2rem 0 0;
+}
+
+h4, h5, h6 {
     font-size: 1rem;
     margin: 2rem 0 0;
 }
+
 a {
     text-decoration: none;
     color: $body-link;

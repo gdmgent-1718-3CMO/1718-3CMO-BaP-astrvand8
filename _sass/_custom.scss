@@ -67,8 +67,8 @@ table{
 ul{
   text-align: left;
   margin-left: 50pt;
-  margin-right: 50pt;
-  color: $mycolor-1;
+  margin-right:auto;
+  color: $mycolor-2;
 }
 
 ul.richtlijnen{
@@ -103,7 +103,7 @@ ol{
 
 img{
   display: block;
-  margin-left: 50pt;
+  margin-left: auto;
   margin-right: auto;
   margin-top: 5px;
   margin-bottom: 10px;

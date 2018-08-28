@@ -27,13 +27,3 @@ In het logo werken we met fonts ‘Contrail One’ en ‘Tahoma’. Meer info hi
 ## Kleurgebruik
 
 Enkel de logo’s die hier worden afgebeeld zijn geldig. Bij voorkeur gebruikt u het logo met beide blauwtinten, maar dit zal afhangen van de drager en of het logo al dan niet voldoende zichtbaar is. Zoniet kunt u kiezen uit het logo in de blauwtinten of zwart/wit. Grijswaarden worden vermeden.
-
-## Beknopte richtlijnen
-
-- Verander de vorm, typografie of aangegeven kleuren niet.
-- Geef het logo geen slagschaduwen, omtreklijnen of kaders.
-- Gebruik het logo niet aflopend.
-- Laat geen elementen uit het logo vallen en pas de vorm niet aan. 
-- Vul het logo niet met kleur.
-
-Respecteer de ruimte rond het logo om de identeit en integriteit van het logo te beschermen.

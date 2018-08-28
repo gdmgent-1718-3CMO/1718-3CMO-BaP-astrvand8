@@ -7,10 +7,11 @@ title: Logo gebruik
 
 # Een logo gebruik je juist
 
-## Enkele voorbeelden
+## Logo in kleur
 
 <img src="/1718-3CMO-BaP-astrvand8/images/voorbeelden/logokleur.jpg" alt="logokleur" class="w-75">
 
+Het logo wordt enkel in de twee blauwtinten gepresenteerd. Er wordt niet afgeweken van deze twee kleuren. 
 
 
 ## Zwart Wit

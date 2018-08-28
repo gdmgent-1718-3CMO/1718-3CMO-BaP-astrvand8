@@ -7,7 +7,7 @@ title: Logo
 
 # Het nieuwe logo
 
-<p>bootstrap class = w-75<br>
+<p><br>
 <img src="/1718-3CMO-BaP-astrvand8/images/voorbeelden/logo.jpg" alt="logo" class="w-50"></p>
 
 Het logo werd aangepast en gemoderniseerd. In het logo zitten de kernelementen van de bibliotheek visueel verwerkt. Het stijlelement bij uitstek dat in elke strip voorkomt; de tekstballon, in de vorm van een negen, verwijzend naar ‘de negende kunst’. Op die manier combineert het logo de stijl van strips met de naam van de stripbibliotheek zelf. 

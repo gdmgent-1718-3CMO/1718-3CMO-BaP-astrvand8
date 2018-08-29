@@ -9,7 +9,7 @@ title: Logo gebruik
 
 ## Standaard logo
 
-<img src="/1718-3CMO-BaP-astrvand8/images/voorbeelden/logo.jpg" alt="logo" class="w-75">
+<img src="/1718-3CMO-BaP-astrvand8/images/voorbeelden/logolang.jpg" alt="logo" class="w-75">
 
 Bij voorkeur wordt dit logo gebruikt, met een combinatie van de beide huisstijlkleuren. Het kan echter zijn dat afhankelijk van de drager, geopteerd wordt voor een van de hieropvolgende logo's, maar enkel indien dit de leesbaarheid en duidelijkheid van het logo ten goede komt.
 
@@ -27,7 +27,11 @@ Het logo wordt enkel in de twee blauwtinten gepresenteerd. Er wordt niet afgewek
 Het kan voorkomen dat het logo in zwart wit zal moeten gedrukt worden.
 
 
-## Onjuist gebruik
+## Alternatief
+
+<img src="/1718-3CMO-BaP-astrvand8/images/voorbeelden/alternatieflogo.jpg" alt="alternatieflogo" class="w-75">
+
+Ter aanvulling op bepaalde ontwerpen, om extra sfeer of herkenbare elementen toe te voegen, mag worden gewerkt met het alternatieve logo. 
 
 ## Beknopte richtlijnen
 

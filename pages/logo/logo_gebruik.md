@@ -7,6 +7,12 @@ title: Logo gebruik
 
 # Een logo gebruik je juist
 
+## Standaard logo
+
+<img src="/1718-3CMO-BaP-astrvand8/images/voorbeelden/logo.jpg" alt="logo" class="w-75">
+
+Bij voorkeur wordt dit logo gebruikt, met een combinatie van de beide huisstijlkleuren. Het kan echter zijn dat afhankelijk van de drager, geopteerd wordt voor een van de hieropvolgende logo's, maar enkel indien dit de leesbaarheid en duidelijkheid van het logo ten goede komt.
+
 ## Logo in kleur
 
 <img src="/1718-3CMO-BaP-astrvand8/images/voorbeelden/logokleur.jpg" alt="logokleur" class="w-75">

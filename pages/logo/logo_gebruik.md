@@ -17,7 +17,7 @@ Bij voorkeur wordt dit logo gebruikt, met een combinatie van de beide huisstijlk
 
 <img src="/1718-3CMO-BaP-astrvand8/images/voorbeelden/logokleur.jpg" alt="logokleur" class="w-75">
 
-Het logo wordt enkel in de twee blauwtinten gepresenteerd. Er wordt niet afgeweken van deze twee kleuren. 
+Het logo wordt enkel in de twee blauwtinten gepresenteerd. Er wordt niet afgeweken van deze twee kleuren, tenzij in zwart/wit tinten wordt gewerkt.  
 
 
 ## Zwart Wit
@@ -31,7 +31,7 @@ Het kan voorkomen dat het logo in zwart wit zal moeten gedrukt worden.
 
 <img src="/1718-3CMO-BaP-astrvand8/images/voorbeelden/alternatieflogo.jpg" alt="alternatieflogo" class="w-75">
 
-Ter aanvulling op bepaalde ontwerpen, om extra sfeer of herkenbare elementen toe te voegen, mag worden gewerkt met het alternatieve logo. 
+Ter aanvulling op bepaalde ontwerpen, om extra sfeer of herkenbare elementen toe te voegen, mag worden gewerkt met het alternatieve logo. Vermijd echter dat deze versie op dezelfde zijde van de drager terechtkomt, als het standaard logo. 
 
 ## Beknopte richtlijnen
 
